@@ -1,0 +1,4 @@
+Marto;HRM Stuff;200-20+50
+Marto;Drinking tea;30
+Joro;Looking for the meaning of life;42
+Joro;Helping you solve your tasks;58+60
